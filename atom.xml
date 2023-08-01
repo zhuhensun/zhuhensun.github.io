@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>zhuhen&#39;s blog</title>
-  
+  <icon>http://zhuhen.me/images/favicon_200x200.png</icon>
   <subtitle>逐痕の博客</subtitle>
   <link href="http://zhuhen.me/atom.xml" rel="self"/>
   
   <link href="http://zhuhen.me/"/>
-  <updated>2023-07-26T12:01:57.351Z</updated>
+  <updated>2023-08-01T06:41:05.867Z</updated>
   <id>http://zhuhen.me/</id>
   
   <author>
@@ -21,15 +21,14 @@
     <link href="http://zhuhen.me/2023/07/26/%E3%80%8A%E7%BB%AF%E7%BA%A2%E7%BB%93%E7%B3%BB%E3%80%8B%E8%AF%84%E6%9E%90/"/>
     <id>http://zhuhen.me/2023/07/26/%E3%80%8A%E7%BB%AF%E7%BA%A2%E7%BB%93%E7%B3%BB%E3%80%8B%E8%AF%84%E6%9E%90/</id>
     <published>2023-07-25T16:00:00.000Z</published>
-    <updated>2023-07-26T12:01:57.351Z</updated>
+    <updated>2023-08-01T06:41:05.867Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;h1 id=&quot;游玩经历&quot;&gt;&lt;a href=&quot;#游玩经历&quot; class=&quot;headerlink&quot; title=&quot;游玩经历&quot;&gt;&lt;/a&gt;游玩经历&lt;/h1&gt;&lt;p&gt;6月末，学校期末考外加六级考试结束，有大片空闲时间。刚把《光环：士官长合集》打完，寻思在steam买点游戏玩玩，正好《绯红结</summary>
-      
+    <summary type="html">&lt;h1 id=&quot;游玩经历&quot;&gt;&lt;a href=&quot;#游玩经历&quot; class=&quot;headerlink&quot; title=&quot;游玩经历&quot;&gt;&lt;/a&gt;游玩经历&lt;/h1&gt;&lt;p&gt;6月末，学校期末考外加六级考试结束，有大片空闲时间。刚把《光环：士官长合集》打完，寻思在steam买点游戏玩玩，正好《绯红结系》两周年万代在打折，看着画风挺戳我就买了一个终极版玩玩（原本在XGP上是免费的，今年1月刚退出；没办法终极版有剧情dlc，如果全是装扮我就买普通版了）。从6月末玩到昨天25号，除去7月初的两周军训没玩（军训是补的去年的，22级因为疫情推迟了；军训的时候连游戏都打不下去）大概总共就玩了半个月吧，steam上面记录时间是66.4h，差两个成就就满成就了，反正花了我挺长时间的，不写点什么记录一下对不起我这花费的时间。&lt;br&gt;&lt;img src=&quot;/2023/07/26/%E3%80%8A%E7%BB%AF%E7%BA%A2%E7%BB%93%E7%B3%BB%E3%80%8B%E8%AF%84%E6%9E%90/20230724164557_1.jpg&quot; alt=&quot;总体评价&quot;&gt;&lt;/p&gt;</summary>
     
     
+    
+    <category term="游戏" scheme="http://zhuhen.me/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
     <category term="游戏" scheme="http://zhuhen.me/tags/%E6%B8%B8%E6%88%8F/"/>
@@ -46,7 +45,10 @@
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
       
     
     
